@@ -2,6 +2,8 @@
 
 This repository aims to demonstrate the usage of time in ROS2.
 
+Read more about this [here](https://design.ros2.org/articles/clock_and_time.html).
+
 ## std_msgs::msg::Header
 link: https://docs.ros2.org/latest/api/std_msgs/msg/Header.html
 ```cpp
